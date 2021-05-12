@@ -18,8 +18,17 @@ export type StackEntry = {
 };
 
 export type Stack = {
-  type: string;
+  name: string;
   entries: Array<StackEntry>;
+  color:
+    | 'gray'
+    | 'red'
+    | 'yellow'
+    | 'green'
+    | 'blue'
+    | 'indigo'
+    | 'purple'
+    | 'pink';
 };
 
 export type DataFilename = 'jobs' | 'stacks';

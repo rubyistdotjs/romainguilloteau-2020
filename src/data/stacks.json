@@ -1,0 +1,75 @@
+[
+  {
+    "name": "Languages",
+    "color": "blue",
+    "entries": [
+      {
+        "name": "Ruby",
+        "comment": "not so mush anymore but a daily for like 8 years."
+      }, {
+        "name": "JavaScript",
+        "comment": "daily for everything, front, back, scripts..."
+      }, { 
+        "name": "TypeScript",
+        "comment": "mostly on the frontend."
+      }, {
+        "name": "Go",
+        "comment": ""
+      }
+    ]
+  }, {
+    "name": "Technos",
+    "color": "green",
+    "entries": [
+      {
+        "name": "Ruby on Rails",
+        "comment": "I created dozen of apps with it."
+      }, {
+        "name": "Node.js & Express",
+        "comment": "a daily, we exclusively use express at work."
+      }, {
+        "name": "React",
+        "comment": "same as above, in my previous work we used Vue which is cool as well."
+      }, {
+        "name": "tailwindcss",
+        "comment": "Almost all my personal projects includes it, i love tailwind to death."
+      }
+    ]
+  }, {
+    "name": "Ops and Databases",
+    "color": "purple",
+    "entries": [
+      {
+        "name": "AWS",
+        "comment": "in all my jobs we started with Heroku and ended up on AWS."
+      }, {
+        "name": "PostgreSQL",
+        "comment": "my database of choice and also a standard at work."
+      }, {
+        "name": "Redis",
+        "comment": "believe it or not, I worked on projects were this was the main DB."
+      }, {
+        "name": "Docker",
+        "comment": ""
+      }
+    ]
+  }, {
+    "name": "Tools",
+    "color": "pink",
+    "entries": [
+      {
+        "name": "VSCode",
+        "comment": ""
+      }, {
+        "name": "Firefox",
+        "comment": ""
+      }, {
+        "name": "Notion",
+        "comment": ""
+      }, {
+        "name": "Figma",
+        "comment": ""
+      }
+    ]
+  }
+]
