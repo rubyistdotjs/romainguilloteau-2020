@@ -1,0 +1,43 @@
+[
+  {
+    "company": "Swile",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "titles": [{
+      "name": "Innovation Team Leader",
+      "startedAt": "2018-11-01",
+      "endedAt": "2020-04-30"
+    }, {
+      "name": "Software Engineer",
+      "startedAt": "2018-11-05",
+      "endedAt": "2020-10-30"
+    }]
+  }, {
+    "company": "Codeur",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "titles": [{
+      "name": "Lead Developer and Software Architect",
+      "startedAt": "2016-01-01",
+      "endedAt": "2018-09-30"
+    }, {
+      "name": "Lead Developer",
+      "startedAt": "2015-01-01",
+      "endedAt": "2015-12-31"
+    }]
+  }, {
+    "company": "1Year1Book",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "titles": [{
+      "name": "Lead Developer",
+      "startedAt": "2013-09-01",
+      "endedAt": "2014-08-31"
+    }]  
+  }, {
+    "company": "Freelance",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "titles": [{
+      "name": "FullStack Developer",
+      "startedAt": "2013-09-01",
+      "endedAt": "2014-08-31"
+    }]
+  }
+]
