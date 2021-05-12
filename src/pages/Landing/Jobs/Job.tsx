@@ -17,11 +17,10 @@ export const Job = ({ company, titles, description }: JobProps) => {
         {titles.map((title) => (
           <span className="block" key={title.startedAt}>
             {title.name}{' '}
-            <span className="font-normal text-gray-400">
+            <span className="text-base font-normal text-gray-400">
               {title.endedAt ? (
                 <span>
-                  from {formatDate(title.startedAt)} to{' '}
-                  {formatDate(title.endedAt)}
+                  - {formatDate(title.startedAt)} to {formatDate(title.endedAt)}
                 </span>
               ) : (
                 <span>since {formatDate(title.startedAt)}</span>
