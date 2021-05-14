@@ -16,11 +16,11 @@ export const LandingPage = () => {
               <h1 className="text-7xl leading-snug font-bold mb-12">
                 I'm Romain Guilloteau
                 <br />a{' '}
-                <span className="bg-indigo-500 text-black px-3">
+                <span className="bg-indigo-500 text-gray-900 px-3">
                   Senior Full Stack Developer
                 </span>
               </h1>
-              <p className="text-3xl text-gray-300 mb-12">
+              <p className="text-3xl text-gray-200 mb-12">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
                 enim ad minim veniam, quis nostrud exercitation ullamco laboris
