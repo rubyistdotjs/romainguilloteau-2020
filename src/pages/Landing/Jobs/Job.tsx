@@ -23,13 +23,13 @@ export const Job = ({ company, titles, description }: JobProps) => {
                   - {formatDate(title.startedAt)} to {formatDate(title.endedAt)}
                 </span>
               ) : (
-                <span>since {formatDate(title.startedAt)}</span>
+                <span>- since {formatDate(title.startedAt)}</span>
               )}
             </span>
           </span>
         ))}
       </div>
-      <p className="text-lg">{description}</p>
+      {description && <p className="text-lg">{description}</p>}
     </div>
   );
 };

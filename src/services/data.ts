@@ -8,7 +8,7 @@ export type JobTitle = {
 
 export type Job = {
   company: string;
-  description: string;
+  description: string | null;
   titles: Array<JobTitle>;
 };
 

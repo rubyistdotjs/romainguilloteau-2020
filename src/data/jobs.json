@@ -1,7 +1,7 @@
 [
   {
     "company": "BuyCo",
-    "description": "",
+    "description": null,
     "titles": [{
       "name": "Backend Software Engineer",
       "startedAt": "2021-06-01"
@@ -9,7 +9,7 @@
   },
   {
     "company": "Swile",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "description": null,
     "titles": [{
       "name": "Innovation Team Leader",
       "startedAt": "2018-11-01",
@@ -21,7 +21,7 @@
     }]
   }, {
     "company": "Codeur",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "description": null,
     "titles": [{
       "name": "Lead Developer and Software Architect",
       "startedAt": "2016-01-01",
@@ -33,7 +33,7 @@
     }]
   }, {
     "company": "1Year1Book",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "description": null,
     "titles": [{
       "name": "Lead Developer",
       "startedAt": "2013-09-01",
@@ -41,7 +41,7 @@
     }]  
   }, {
     "company": "Freelance",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "description": null,
     "titles": [{
       "name": "FullStack Developer",
       "startedAt": "2013-09-01",
