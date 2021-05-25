@@ -7,16 +7,11 @@ import mugshotSrc from '../../images/mugshot-thumbnail.jpg';
 export const Header = () => {
   return (
     <div className="container mx-auto py-6 flex flex-row justify-between items-center">
-      <div className="w-16 h-16 rounded-full bg-gray-600 overflow-hidden">
+      <div className="w-10 h-10 rounded-full bg-gray-600 overflow-hidden md:w-12 md:h-12 lg:w-14 lg:h-14 xl:w-16 xl:h-16">
         <img src={mugshotSrc} alt="Romain Guilloteau" />
       </div>
 
       <div className="flex flex-row space-x-4">
-        <HeaderSocialButton
-          icon="FileText"
-          label="Download my resume"
-          url="https://github.com/rubyistdotjs"
-        />
         <HeaderSocialButton
           icon="GitHub"
           label="Visit my GitHub page"

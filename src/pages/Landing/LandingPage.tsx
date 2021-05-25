@@ -12,15 +12,15 @@ export const LandingPage = () => {
       <main>
         <section className="mt-24 mb-32">
           <div className="container mx-auto">
-            <div className="w-4/5">
-              <h1 className="text-7xl leading-snug font-bold mb-12">
+            <div className="w-full lg:w-4/5">
+              <h1 className="text-4xl leading-tight font-bold mb-6 md:text-5xl md:leading-tight md:mb-8 lg:text-6xl lg:leading-snug lg:mb-10 xl:text-7xl xl:leading-snug xl:mb-12">
                 I'm Romain Guilloteau
                 <br />a{' '}
-                <span className="bg-indigo-500 text-gray-900 px-3">
+                <span className="bg-indigo-500 text-gray-900 px-1 lg:px-3">
                   Senior Full Stack Developer
                 </span>
               </h1>
-              <p className="text-3xl text-gray-200 mb-12">
+              <p className="text-base text-gray-200 mb-6 md:text-lg md:mb-8 lg:text-2xl lg:mb-10 xl:text-3xl xl:mb-12">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
                 enim ad minim veniam, quis nostrud exercitation ullamco laboris
@@ -30,7 +30,7 @@ export const LandingPage = () => {
               </p>
               <a
                 href="mailto:hello@romainguilloteau.dev"
-                className="text-2xl font-semibold text-indigo-500 transition-colors duration-200 ease-in-out hover:text-indigo-600"
+                className="text-base font-semibold text-indigo-500 transition-colors duration-200 ease-in-out hover:text-indigo-600 md:text-lg lg:text-2xl xl:text-3xl"
               >
                 hello@romainguilloteau.dev
               </a>
